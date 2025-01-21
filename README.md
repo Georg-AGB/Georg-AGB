@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🔭 I’m currently teaching Java, Python, PHP and other languages to middle- and high school students in Germany.
 <!--
 **Georg-AGB/Georg-AGB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
